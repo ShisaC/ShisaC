@@ -1,25 +1,28 @@
-### Hi there 👋
+<img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
 
-I am a self-taught Full-stack web/mobile developer and UX Designer from India.
-I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
-I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+<br />
 
-Fun Fact 🎈:
+**I am a self-taught Full-stack web/mobile developer/UX-Designer from India.**
+<br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
+<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+<!-- <br />**I have 3+ Years of experience in Frontend|UI|UX **-->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
+<br />
+
+## Fun Fact 🎈:
+
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-• 🔭 I’m open to collaborative and freelance work.
-• 👯 I’m looking to collaborate on cool project.
-• 💬 Ask me about Full Stack/UI-UX Design
-• 📫 Reach me out shisachhotray@gmail.com
+• 🔭 I’m currently working on <b>something cool!</b> <br/>
+• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
+• 💬 Ask me about <b>UX Design and UI development</b>.<br/>
+• 📫 Reach me out <a href="https://www.instagram.com/technovisualist/"><b>@technovisualist</b></a><br/>
+</span>
 
-
-
-
-
-
-
-
+<br />
+<br />
 
 
 
