@@ -1,5 +1,5 @@
 Hi all 🙏
-**I am a self-taught Full-stack web/mobile developer/UX-Designer from India.**
+**I am a self-taught Full-stack web/mobile developer and UX-Designer from India.**
 <br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
 <br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 <!-- <br />**I have 3+ Years of experience in Frontend|UI|UX **-->
